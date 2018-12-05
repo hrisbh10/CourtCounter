@@ -1,0 +1,4 @@
+#Wed Dec 05 21:22:11 IST 2018
+base.0=/home/jarvis/AndroidStudioProjects/CourtCounter/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
