@@ -95,7 +95,7 @@
                 android:layout_height="wrap_content"
                 android:text="+3 points"
                 android:layout_gravity="center"
-                android:background="#EF6C00"
+                android:background="#f498ad"
                 android:onClick="bAdd3"/>
             <Button
                 android:layout_width="96dp"
@@ -103,7 +103,7 @@
                 android:layout_marginTop="18dp"
                 android:text="+2 points"
                 android:layout_gravity="center"
-                android:background="#EF6C00"
+                android:background="#f498ad"
                 android:onClick="bAdd2"/>
             <Button
                 android:layout_width="96dp"
@@ -111,7 +111,7 @@
                 android:layout_marginTop="18dp"
                 android:text="Free Throw"
                 android:layout_gravity="center"
-                android:background="#EF6C00"
+                android:background="#f498ad"
                 android:onClick="bAdd1"/>
 
         </LinearLayout>
